@@ -1,4 +1,4 @@
 # TEXT-TO-SQL
 This project will use GenAI to convert NLP/Text to SQL code
 <br>
-This is my first projet
+This is my first project
